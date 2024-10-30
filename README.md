@@ -1,5 +1,5 @@
 ---
-source-git-commit: cbd8d15f33c5dc7b6099fac62b0d77b3a645093c
+source-git-commit: 37507803d22fb3e5f210a863bf11777b5a3161c0
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 36%
@@ -7,7 +7,7 @@ ht-degree: 36%
 ---
 # 貢獻文章
 
-**注意：**&#x200B;已封存此存放庫。
+**注意：**&#x200B;此存放庫已封存！
 
 我們歡迎社群以及檔案團隊外部的 Adobe 員工出力貢獻。
 
