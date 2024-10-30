@@ -7,7 +7,8 @@ feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, E
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/genstudio-learn.zh-Hant
 index: false
-source-git-commit: cbccaf4952af1db5668de8d93e15522e8ce329b6
+hide: true
+source-git-commit: 067115d30e9c6b49d3575b293c8f85d29bab4544
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
